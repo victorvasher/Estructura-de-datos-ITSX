@@ -1,1 +1,8 @@
+---
 
+### 🚨 ADVERTENCIA OBLIGATORIA (Para que no sufran con los errores)
+
+Fíjense muy bien en las primeras líneas de los códigos, por ejemplo:
+```java
+package Estructuras_lineales.LISTAS;
+import Estructuras_lineales.NodoDoble;
